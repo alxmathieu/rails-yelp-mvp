@@ -15,31 +15,31 @@ restaurants_attributes = [
     name:         'Dishoom',
     address:      '7 Boundary St, London E2 7JE',
     category:     'chinese',
-
+    phone_number: "0646737463"
   },
   {
     name:         'Pizza East',
     address:      '56A Shoreditch High St, London E1 6PQ',
     category:     'italian',
-
+    phone_number: "0646737463"
   },
   {
     name:         'Esprit Tchai',
     address:      '13 rue Oberkampf',
     category:      'italian',
-
+    phone_number: "0646737463"
   },
   {
     name:         'Chez Maxou',
     address:      'Rue de la raclette',
     category:      "french",
-
+    phone_number: "0646737463"
   },
   {
     name:         'A la galette Bretonne',
     address:      '2 avenue de concarneau, Concarneau',
     category:      "french",
-
+    phone_number: "0646737463"
   },
 
 ]
